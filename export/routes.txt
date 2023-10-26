@@ -1,0 +1,47 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_color,route_text_color,route_sort_order
+BKK,3010,1,,0,Kelenföld vasútállomás M / Bécsi út / Vörösvári út,FFD800,000000,12
+BKK,3011,1A,,0,Népliget M / Bécsi út / Vörösvári út,FFD800,000000,15
+BKK,3012,1,,0,Kelenföld vasútállomás M / Népliget M,FFD800,000000,13
+BKK,3020,2,,0,Jászai Mari tér / Közvágóhíd H,FFD800,000000,16
+BKK,3022,2B,,0,Jászai Mari tér / Gubacsi út / Határ út,FFD800,000000,18
+BKK,3030,3,,0,Mexikói út M / Ecseri út M,FFD800,000000,19
+BKK,3040,4,,0,Széll Kálmán tér M / Újbuda-központ M,FFD800,000000,21
+BKK,3060,6,,0,Széll Kálmán tér M / Móricz Zsigmond körtér M,FFD800,000000,23
+BKK,3120,12,,0,"Angyalföld kocsiszín / Rákospalota, Kossuth utca",FFD800,000000,32
+BKK,3140,14,,0,"Lehel tér M / Káposztásmegyer, Megyeri út",FFD800,000000,35
+BKK,3170,17,,0,Savoya Park / Bécsi út / Vörösvári út,FFD800,000000,39
+BKK,3190,19,,0,Bécsi út / Vörösvári út / Kelenföld vasútállomás M,FFD800,000000,40
+BKK,3230,23,,0,Jászai Mari tér / Keleti pályaudvar M,FFD800,000000,46
+BKK,3240,24,,0,Keleti pályaudvar M / Közvágóhíd H,FFD800,000000,47
+BKK,3280,28,,0,Blaha Lujza tér M / Izraelita temető,FFD800,000000,51
+BKK,3281,28A,,0,Blaha Lujza tér M / Új köztemető (Kozma utca),FFD800,000000,52
+BKK,3282,28B,,0,Keleti pályaudvar M / Új köztemető (Kozma utca),FFD800,000000,53
+BKK,3370,37,,0,Blaha Lujza tér M / Új köztemető (Kozma utca),FFD800,000000,66
+BKK,3371,37A,,0,Blaha Lujza tér M / Sörgyár,FFD800,000000,67
+BKK,3410,41,,0,Bécsi út / Vörösvári út / Kamaraerdei Ifjúsági Park,FFD800,000000,74
+BKK,3420,42,,0,"Határ út M / Kispest, Tulipán utca",FFD800,000000,76
+BKK,3470,47,,0,Deák Ferenc tér M / Városház tér,FFD800,000000,80
+BKK,3480,48,,0,Deák Ferenc tér M / Savoya Park,FFD800,000000,81
+BKK,3490,49,,0,Deák Ferenc tér M / Kelenföld vasútállomás M,FFD800,000000,82
+BKK,3500,50,,0,"Határ út M / Pestszentlőrinc, Béke tér",FFD800,000000,83
+BKK,3510,51,,0,Mester utca / Ferenc körút / Gubacsi út / Határ út,FFD800,000000,84
+BKK,3511,51A,,0,Mester utca / Ferenc körút / Koppány utca,FFD800,000000,85
+BKK,3520,52,,0,"Határ út M / Pesterzsébet, Pacsirtatelep",FFD800,000000,87
+BKK,3560,56,,0,Hűvösvölgy / Városház tér,FFD800,000000,91
+BKK,3561,56A,,0,Hűvösvölgy / Móricz Zsigmond körtér M,FFD800,000000,93
+BKK,3590,59,,0,Szent János Kórház / Márton Áron tér,FFD800,000000,96
+BKK,3591,59A,,0,Széll Kálmán tér M / Márton Áron tér,FFD800,000000,97
+BKK,3592,59B,,0,Hűvösvölgy / Márton Áron tér,FFD800,000000,98
+BKK,3600,60,,0,"Városmajor / Széchenyi-hegy, Gyermekvasút",FFD800,000000,100
+BKK,3610,61,,0,Hűvösvölgy / Móricz Zsigmond körtér M,FFD800,000000,103
+BKK,3612,61B,,0,Hűvösvölgy / Városház tér,FFD800,000000,104
+BKK,3620,62,,0,"Blaha Lujza tér M / Rákospalota, MÁV-telep",FFD800,000000,105
+BKK,3621,62A,,0,"Kőbánya alsó vasútállomás / Rákospalota, MÁV-telep",FFD800,000000,106
+BKK,3690,69,,0,"Mexikói út M / Újpalota, Erdőkerülő utca",FFD800,000000,118
+BKK,3KT01,KT01,,0,Ferencváros kocsiszín / Közvágóhíd H,FFD800,000000,325
+BKK,5100,M1,,1,Vörösmarty tér / Mexikói út M,FFD800,000000,0
+BKK,5200,M2,,1,Puskás Ferenc Stadion / Déli pályaudvar M,E41F18,FFFFFF,1
+BKK,5300,M3,,1,Újpest-központ / Kőbánya-Kispest,005CA5,FFFFFF,2
+BKK,5400,M4,,1,Keleti pályaudvar / Kelenföld vasútállomás,4CA22F,FFFFFF,3
+BKK,N3020,N2,,0,Jászai Mari tér / Közvágóhíd H,FF9900,FFFFFF,328
+BKK,N3190,N19,,0,Katinyi mártírok parkja / Deák Ferenc tér M,FF9900,FFFFFF,329
